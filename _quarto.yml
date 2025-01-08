@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "EDUC 480: International Internship and Special Topics Seminar"
+  description: "Course site for EDUC 480 at Howard University"
+  site-url: "https://educ480.github.io/sp25"
+  
+  repo-url: "https://github.com/educ480/sp25"
+  
+  open-graph: true
+
+  page-footer:
+    right: "This page was built by Nathan Alexander, PhD in [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2024, Nathan Alexander"
+    background: "#b1ccc1"
+   
+  sidebar:
+    background: "#b1ccc1"
+    logo: "../img/mary-mcleod-bethune-2.jpg"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://educ480.github.io/sp25/
+        text: "GitHub organization"
+      - icon: code-square
+        href: https://canvas.howard.edu/courses/53402
+        text: "Canvas site"
+  
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:  
+    - section: "Course information"
+      contents:
+        - href: index.qmd
+          text: Course landing page
+
+format:
+  html:
+    theme:
+      light: [spacelab, style/data202.scss]
+      dark: [spacelab, style/data202.scss, style/theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    callout-appearance: simple
+    colorlinnks: true
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+execute: 
+  freeze: auto
+    
+editor: visual
