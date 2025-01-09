@@ -1,0 +1,19 @@
+---
+title: "Week 2: Introduction to Comparative and International Education"
+subtitle: "EDUC 480 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: week02-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    toc: false
+    echo: true
+    incremental: false
+---

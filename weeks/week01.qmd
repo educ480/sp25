@@ -1,0 +1,35 @@
+---
+title: "Week 1: Introduction to the course"
+subtitle: "EDUC 480 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: week01-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    toc: false
+    echo: true
+    incremental: false
+---
+
+# What is international and comparative education?
+
+# What are different approaches to global education?
+
+## Theories of education
+
+### Multicultural education
+
+### Culturally relevant and responsive education
+
+### Critical education and critical pedagogies
+
+# Colombia experience (spring break trip)
+
+# Preparing to teach in diverse classrooms

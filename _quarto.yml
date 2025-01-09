@@ -14,12 +14,12 @@ website:
 
   page-footer:
     right: "This page was built by Nathan Alexander, PhD in [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, Nathan Alexander"
+    left: "&copy; Copyright 2025, Nathan Alexander"
     background: "#b1ccc1"
    
   sidebar:
     background: "#b1ccc1"
-    logo: "../img/mary-mcleod-bethune-2.jpg"
+    logo: "img/global-hands.jpg"
     pinned: true
     align: center
     tools: 
@@ -38,6 +38,30 @@ website:
       contents:
         - href: index.qmd
           text: Course landing page
+        - href: who.qmd
+          text: Who is in the site photo?
+    - section: "Weeks"
+      contents:
+        - href: weeks/week01.qmd
+          text: Week 1
+        - href: weeks/week02.qmd
+          text: Week 2
+        - href: weeks/week03.qmd
+          text: Week 3
+    - section: "Field experience"
+      contents:
+        - href: field/expectations.qmd
+          text: Expectations
+        - href: field/weekly.qmd
+          text: Weekly schedules
+    - section: "Standards and curricula"
+      contents: 
+        - href: standards/common.qmd
+          text: Common Core State Standards - Mathematics
+        - href: standards/umoja.qmd
+          text: Umoja Curriculum
+        - href: standards/freedom.qmd
+          text: Freedom School Curriculum
 
 format:
   html:
@@ -46,9 +70,10 @@ format:
       dark: [spacelab, style/data202.scss, style/theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
     callout-appearance: simple
-    colorlinnks: true
+    colorlinnks: false
     code-copy: true
     code-overflow: wrap
+    code-fold: true
     toc: true
 
 execute: 
