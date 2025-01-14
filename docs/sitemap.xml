@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://educ480.github.io/sp25/index.html</loc>
-    <lastmod>2025-01-09T19:12:42.726Z</lastmod>
-  </url>
-  <url>
-    <loc>https://educ480.github.io/sp25/who.html</loc>
-    <lastmod>2025-01-08T16:01:01.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://educ480.github.io/sp25/weeks/week01.html</loc>
-    <lastmod>2025-01-09T18:19:33.200Z</lastmod>
-  </url>
-  <url>
     <loc>https://educ480.github.io/sp25/standards/common.html</loc>
     <lastmod>2024-08-29T20:06:14.591Z</lastmod>
   </url>
@@ -25,12 +13,48 @@
     <lastmod>2024-08-29T20:30:37.514Z</lastmod>
   </url>
   <url>
+    <loc>https://educ480.github.io/sp25/theories.html</loc>
+    <lastmod>2025-01-09T18:52:22.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/who.html</loc>
+    <lastmod>2025-01-08T16:01:01.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/weeks/week03.html</loc>
+    <lastmod>2025-01-09T18:53:02.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/weeks/week03-slides.html</loc>
+    <lastmod>2025-01-09T18:53:02.894Z</lastmod>
+  </url>
+  <url>
     <loc>https://educ480.github.io/sp25/assignments.html</loc>
     <lastmod>2024-11-06T17:07:51.923Z</lastmod>
   </url>
   <url>
+    <loc>https://educ480.github.io/sp25/weeks/week01-slides.html</loc>
+    <lastmod>2025-01-09T18:19:33.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/weeks/week01.html</loc>
+    <lastmod>2025-01-09T18:19:33.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/weeks/week02-slides.html</loc>
+    <lastmod>2025-01-09T18:53:14.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/weeks/week02.html</loc>
+    <lastmod>2025-01-09T18:53:14.700Z</lastmod>
+  </url>
+  <url>
     <loc>https://educ480.github.io/sp25/course-overview.html</loc>
     <lastmod>2024-08-21T16:31:01.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educ480.github.io/sp25/index.html</loc>
+    <lastmod>2025-01-09T19:12:42.726Z</lastmod>
   </url>
   <url>
     <loc>https://educ480.github.io/sp25/field/expectations.html</loc>
@@ -39,13 +63,5 @@
   <url>
     <loc>https://educ480.github.io/sp25/standards/freedom.html</loc>
     <lastmod>2024-08-29T20:57:37.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://educ480.github.io/sp25/weeks/week01-slides.html</loc>
-    <lastmod>2025-01-09T18:19:33.200Z</lastmod>
-  </url>
-  <url>
-    <loc>https://educ480.github.io/sp25/theories.html</loc>
-    <lastmod>2025-01-09T18:33:57.182Z</lastmod>
   </url>
 </urlset>
