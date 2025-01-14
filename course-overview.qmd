@@ -7,16 +7,13 @@ subtitle: "Principles of Teaching Math and Science in Urban Classrooms II"
 
 ### Course description
 
-Provides candidates with knowledge, skills, dispositions and pedagogy to deliver content-rich, rigorous mathematics and science instruction for African American and diverse urban learners in grades 4-6.Candidates will have opportunities to employ a variety of instructional strategies to integrate mathematics and science content and the Common Core State Standards through the Principles of Learning Mathematics and Science. Field-based experiences provide an opportunity for candidates to design, develop and implementevidence-based lessons in science and mathematics.
-
-Click [here](https://catalogue.howard.edu/sites/default/files/pdf/class/educ-315.pdf?1697638771) to see the Howard course catalog description.
-
+This course integrates pedagogical and theoretical concepts related to teaching and learning in an international context. Candidates will develop global competencies and teaching skills via exposure to international students and educational environments. The seminar aspect of the course will employ online discussions, journal writing, and interdisciplinary readings to enrich the cross-cultural experiences and facilitate the intercultural development of teacher candidates. Candidates in the Elementary Education Program are eligible to register for 9 credit hours.
 
 ### **Syllabus**
 
 A high-level view of the course.
 
-*Please note: this section is only a summary of our syllabus.* The full syllabus is available on our Canvas site [here](https://canvas.howard.edu/courses/53402){target="_blank"}. I have summarized some important items found on the syllabus below:
+*Please note: this section is only a summary of our syllabus.* The full syllabus is available on our Canvas site [here](https://canvas.howard.edu/courses/58654/){target="_blank"}. I have summarized some important items found on the syllabus below:
 
 **Instructor**: Nathan Alexander, PhD
 
@@ -28,25 +25,23 @@ A high-level view of the course.
 
 -   Course information:
 
-    **Course meeting times**: Mondays and Wednesdays at 1:10pm - 3pm EST
+    **Course meeting times**: Tuesdays, 5:10pm - 7:30pm EST
 
-    **Course meeting location**: ASA 0216 (see Canvas)
-
+    **Course meeting location**: Miner Building 211
 
 ### **Canvas**
 
-Canvas is the go-to for submissions, and where you can find readings and assignment rubrics. [Here](https://canvas.howard.edu/courses/53402) is another link to Canvas, I'll try to drop these as often as possible. Two things about Canvas: it has your **assignments** and it has your **readings**.
+Canvas is the go-to for submissions, and where you can find readings and assignment rubrics. [Here](https://canvas.howard.edu/courses/58654/) is another link to Canvas, I'll try to drop these as often as possible. Two things about Canvas: it has your **assignments** and it has your **readings**.
 
 #### Canvas has your course assignments
 
 ::: incremental
 The four categories for **assignments** in this course are as follows:
 
--   **Reflection and position statements** \[10 points\]
--   **Classroom activities and lesson plans**. \[50 points\]
--   **Quizzes**. \[20 points\]
--   **Field placement log; excursion notes/observations**. \[15 points\]
--   **Participation**. \[5 points\]
+-   **Reflection and readings** \[20 points\]
+-   **International trip assignments** \[20 points\]
+-   **Lesson/unit plan and presentations** \[40 points\]
+-   **Field placement log and excursions** \[20 points\]
 :::
 
 ### **A few other items**
@@ -65,4 +60,3 @@ This course will help you gain both a conceptual and theoretical understanding o
 ### **Course site** (this page!)
 
 You can return to this page to remind yourself of the four parts of our course, especially when we dive deep into specific projects. This page will remain static (it will not be updated), so use it as an archive that you can return to; start in this page position if you have questions about the schedule, procedures, expectations (above) ...then assignments (next).
-
