@@ -34,12 +34,8 @@ website:
     search: true
     collapse-level: 1
     contents:  
-    - section: "Course information"
-      contents:
-        - href: index.qmd
-          text: Course landing page
-        - href: who.qmd
-          text: Who is in the site photo?
+    - href: index.qmd
+      text: Course landing page
     - section: "Weeks"
       contents:
         - href: weeks/week01.qmd
@@ -54,8 +50,10 @@ website:
           text: Expectations
         - href: field/weekly.qmd
           text: Weekly schedules
-    - section: "Standards and curricula"
+    - section: "Other and curricula"
       contents: 
+        - href: who.qmd
+          text: Historical figures
         - href: standards/common.qmd
           text: Common Core State Standards - Mathematics
         - href: standards/umoja.qmd
