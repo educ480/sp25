@@ -3,24 +3,23 @@ title: "Welcome to **EDUC 480**"
 subtitle: "International Internship and Special Topics Seminar"
 ---
 
-::: {.column-screen-inset-right}
+::: column-screen-inset-right
 | Week | Date | Module | Readings |
-|:-:|:-:|:-|:--|
-| 1 | Jan 14 | [Introduction to the course](weeks/week01.qmd) | [Baldwin (1963)](https://www.dropbox.com/scl/fi/lyoiw8cp8xt5d4g8syoqj/Baldwin-J.-1963-.-A-Talk-to-Teachers.pdf?rlkey=db5eqfrjxe1mnywj0gikka8aq&dl=0){target="_blank"} |
-| 2 | Jan 21 | [Overview of Comparative and International Education](weeks/week02.qmd) | [Web of Science article](https://founders.howard.edu/using-libraries/my-library-account){target="_blank"} |
-| 3 | Jan 28 | [Ethnocentrism and Nationalism](weeks/week03.qmd) | [](){target="_blank"} |
+|:-----------------:|:-----------------:|:----------------|:------------------|
+| 1 | Jan 14 | [Introduction to the course](weeks/week01.qmd) |  |
+| 2 | Jan 21 | [Overview of Comparative and International Education](weeks/week02.qmd) | [Baldwin (1963)](https://www.dropbox.com/scl/fi/lyoiw8cp8xt5d4g8syoqj/Baldwin-J.-1963-.-A-Talk-to-Teachers.pdf?rlkey=db5eqfrjxe1mnywj0gikka8aq&dl=0){target="_blank"} |
+| 3 | Jan 28 | [Ethnocentrism and Nationalism](weeks/week03.qmd) | [ ](){target="_blank"} |
 | 4 | Feb 4 | [Language, Bias, and Expectation]() | [Yosso (2006)](https://www.dropbox.com/scl/fi/24alnrzp4nqwic0l2tsp4/Yosso-T.-J.-2006-.-Madres-Por-La-Educa-on.pdf?rlkey=phwzq6wuo1jgamkzkwpep4d3n&dl=0){target="_blank"} |
-| 5 | Feb 11 | [Black Internationalization]() | [](){target="_blank"} |
-| 6 | Feb 18 | [Education in the Central and South Americas]()  | [](){target="_blank"} |
-| 7 | Feb 25 | [Education in Colombia]() | [](){target="_blank"} |
+| 5 | Feb 11 | [Black Internationalization]() | [ ](){target="_blank"} |
+| 6 | Feb 18 | [Education in the Central and South Americas]() | [ ](){target="_blank"} |
+| 7 | Feb 25 | [Education in Colombia]() | [ ](){target="_blank"} |
 | -- | -- | Spring Break Trip to Colombia, South America (Mar 2--8) | [Pre-departure packet](){target="_blank"} |
-| 8 | Mar 11 | No Class | [](){target="_blank"} |
-| 9 | Mar 18 |  | [](){target="_blank"} |
-| 10 | Mar 25 |  | [](){target="_blank"} |
-| 11 | Apr 1 |  | [](){target="_blank"} |
-| 12 | Apr 8 |  | [](){target="_blank"} |
+| 8 | Mar 11 | No Class | [ ](){target="_blank"} |
+| 9 | Mar 18 |  | [ ](){target="_blank"} |
+| 10 | Mar 25 |  | [ ](){target="_blank"} |
+| 11 | Apr 1 |  | [ ](){target="_blank"} |
+| 12 | Apr 8 |  | [ ](){target="_blank"} |
 | 13 | Apr 15 |  |  |
 | 14 | Apr 22 |  |  |
 | 15 | Apr 29 |  |  |
 :::
-
