@@ -17,3 +17,75 @@ format:
     echo: true
     incremental: false
 ---
+
+![Artistic rendering of different countries](/img/global-ed.jpg)
+# Context
+
+## Comparative and International Education
+
+International and Comparative Education is a field that examines educational systems, policies, and practices across different countries and cultures. This overview provides a foundation for understanding the key concepts, approaches, and significance of this discipline.
+
+  - **Comparative education** involves the systematic examination of educational theories and practices in different countries. More specifically, it aims to:
+    - Identify similarities and differences between educational systems
+    - Understand the contextual factors influencing education
+    - Learn from diverse approaches to improve educational practices
+ 
+ - In contrast, **international education** focuses on cross-border educational activities and exchanges, global citizenship education, and international schools and curricula.
+
+## Approaches to International and Comparative Ed
+
+There are multiple approaches to international and comparative education.
+
+  1. A **historical approach** examines the historical development of educational systems, and the impact of different historical events on those eduational systems.
+
+  2. A **scientific approach** uses quantitative and qualitative methods to analyze educational data from different cultural and comparative contexts.
+
+  3. A **cultural approach** primarily considers the impact of cultural factors on education within and across different cultural contexts.
+
+  4. A **sociological approach** explores the relationship between education and society.
+  
+  5. A **policy appraoch** primarily examines and compares various policies and laws at the national level.
+
+# Theory
+
+![James Baldwin reading a small book with young people](/img/baldwin.jpg)
+
+## Baldwin's "A Talk to Teachers"
+
+You can read the text here: https://www.zinnedproject.org/materials/baldwin-talk-to-teachers
+
+James Baldwin's "A Talk to Teachers" is a speech delivered by Baldwin on October 16, 1963. His address discussed the purpose of education and the challenges faced by educators in a society grappling with racial injustice. Baldwin's speech emphasizes several key points:
+
+  1. The purpose of education is to create individuals capable of thinking critically and examining their society.
+
+  2. There is a paradox in education: as students become more conscious, they begin to question the very society educating them.
+
+  3. Baldwin argues that the role of teachers, especially those working with African American children, is to help students understand and confront the societal injustices they face.
+
+  4. He also challenges educators to prepare students to change society, even if it means facing resistance.
+
+## NPR Reading
+
+You can find the reading here: https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools
+
+The article discusses recent changes to immigration enforcement policies under President Trump that now allow federal agents to conduct immigration arrests at schools and other previously protected locations. Some key points of the article include:
+
+  - An incident in Chicago caused confusion when Secret Service agents tried to interview a student at school about an anti-Trump video, highlighting the potential for disruption even with non-immigration enforcement.
+
+  - Approximately 733,000 school-aged children in the U.S. lack legal status.
+
+  - President Trump ended a policy that restricted immigration arrests at sensitive locations like schools, churches, and hospitals.
+
+  - School districts are preparing for potential immigration enforcement activities by informing teachers, students, and parents about the policy change.
+
+  - Some parents are keeping children home from school due to fears about immigration enforcement.
+
+  - Schools are advised to request proper documentation from law enforcement officials seeking access to buildings or individuals.
+
+  - The policy change has raised concerns about impacts on children and families, including potential family separations and disruptions to education.
+
+# Practice
+
+## Discussion board post
+
+

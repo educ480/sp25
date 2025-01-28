@@ -72,7 +72,7 @@ format:
       dark: [spacelab, style/data202.scss, style/theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
     callout-appearance: simple
-    colorlinnks: true
+    colorlinnks: false
     code-copy: true
     code-overflow: wrap
     code-fold: true
