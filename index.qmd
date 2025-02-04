@@ -4,12 +4,12 @@ subtitle: "International Internship and Special Topics Seminar"
 ---
 
 ::: column-screen-inset-right
-| Week | Date | Module | Readings |
-|:-----------------:|:-----------------:|:----------------|:------------------|
+| Week | Date | Module | Main reading |
+|:----------------:|:----------------:|:-----------------|:-----------------|
 | 1 | Jan 14 | [Introduction to the course](weeks/week01.qmd) |  |
 | 2 | Jan 21 | [Ethnocentrism and Nationalism](weeks/week02.qmd) | [Baldwin (1963)](https://www.dropbox.com/scl/fi/lyoiw8cp8xt5d4g8syoqj/Baldwin-J.-1963-.-A-Talk-to-Teachers.pdf?rlkey=db5eqfrjxe1mnywj0gikka8aq&dl=0){target="_blank"} |
 | 3 | Jan 28 | [Comparative and International Education](weeks/week03.qmd) | [NPR article](https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools){target="_blank"} |
-| 4 | Feb 4 | [Educational Theories and Culture]() | [](https://www.dropbox.com/scl/fi/24alnrzp4nqwic0l2tsp4/Yosso-T.-J.-2006-.-Madres-Por-La-Educa-on.pdf?rlkey=phwzq6wuo1jgamkzkwpep4d3n&dl=0){target="_blank"} |
+| 4 | Feb 4 | [Educational Theories](weeks/week04.qmd) | [ ](https://www.dropbox.com/scl/fi/24alnrzp4nqwic0l2tsp4/Yosso-T.-J.-2006-.-Madres-Por-La-Educa-on.pdf?rlkey=phwzq6wuo1jgamkzkwpep4d3n&dl=0){target="_blank"} |
 | 5 | Feb 11 | [Black Internationalization]() | [ ](){target="_blank"} |
 | 6 | Feb 18 | [Education in the Central and South Americas]() | [ ](){target="_blank"} |
 | 7 | Feb 25 | [Education in Colombia]() | [ ](){target="_blank"} |
