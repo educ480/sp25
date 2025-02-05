@@ -5,7 +5,14 @@ editor: visual
 ---
 
 | Theorist | Theory/Focus | Description |
-|:--|:--|:----|
+|:----|:------|:-------------------------------|
+| James Banks | Multicultural Education | Developed a framework for integrating multicultural content into curricula, emphasizing five dimensions: content integration, knowledge construction, prejudice reduction, equity pedagogy, and empowering school culture. |
+| Django Paris | Culturally Sustaining Pedagogy | Extends culturally relevant pedagogy by focusing on sustaining linguistic, literate, and cultural pluralism as part of schooling for positive social transformation. |
+| Carter G. Woodson | Black Education | Advocated for the importance of Black history in education, founded Negro History Week (now Black History Month), and critiqued the "mis-education" of African Americans in his seminal work. |
+| Bob Moses | Literacy Education | Combined civil rights activism with litearcy education, viewing litearcy in areas like math as a civil right and tool for empowerment in underserved communities. |
+| Paulo Freire | Education for Liberation | Developed critical pedagogy, emphasizing dialogue, critical consciousness, and the idea that education should be a practice of freedom rather than domination. |
+| Jo-ann Archibald Q'um Q'um Xiiem | Indigenous Storywork | Developed a theoretical framework for using Indigenous stories in education, emphasizing seven principles: respect, responsibility, reciprocity, reverence, holism, interrelatedness, and synergy. |
+| Bryan McKinley Jones Brayboy | Tribal Critical Race Theory | Extends Critical Race Theory to address the specific needs of Indigenous peoples, emphasizing the role of storytelling in theory-building and Indigenous knowledge systems. |
 | Albert Bandura | Observational Learning Theory | Behavior can be learned through observation of others. |
 | Asa Hilliard | African-Centered Education | Emphasized the importance of cultural identity in education, particularly for African American students. Advocated for curriculum that includes African and African American history and culture. |
 | Abraham Maslow | Hierarchy of Needs | Humans naturally strive to satisfy needs. The five levels of needs, from lowest to highest, are: physiological, safety, love, esteem, self-actualization. Lower level needs must be satisfied before the individual can move on to satisfy higher level needs. |

@@ -1,6 +1,6 @@
 ---
 title: "Course overview"
-subtitle: "Principles of Teaching Math and Science in Urban Classrooms II"
+subtitle: "International Internship and Special Topics Seminar"
 ---
 
 ## A slightly more detailed overview.
