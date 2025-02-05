@@ -6,7 +6,7 @@ institute: "School of Education"
 format: 
   html: default
   revealjs:
-    output-file: departure.html
+    output-file: departure-slides.html
     height: 900
     width: 1600
     smaller: true
@@ -33,99 +33,53 @@ Colombia, situated at the northern tip of South America, is a country of remarka
 
 Our trip will be hosted by [ORIGIN+CULTURE](https://www.instagram.com/originandculture/?hl=en){target="_blank"}, a Howard-alumna run Colombian-local travel organization.
 
-## Day 1-3: Bogotá
+> Origin + Culture provides immersive travel and cultural experiences that celebrate Afro- Colombian heritage. Alongside our curated tours, we also host an English Club to support language learning, engage in volunteer projects, and work closely with local businesses to develop and stimulate the Black economy. Through these activities, we create connections across the international Black diaspora and offer opportunities to learn about the impact of Afro-Colombian history, culture, and traditions. Each of our services is designed to support local communities and provide guests with authentic, and thought provoking experiences.
 
-Bogotá, the capital city, sits at an elevation of 2,640 meters (8,660 ft) in the Andes Mountains.
+## Sunday March 2 - Saturday March 8
 
-### Day 1
+## Days 1-4: Medellín
 
--   Arrive at El Dorado International Airport
--   Check-in at hotel in La Candelaria district
--   Evening walk around Plaza Bolívar
+Medellín has transformed into a city of innovation and culture.
 
-### Day 2
+### Day 1 (Sun March 2)
 
--   Morning: Visit the Gold Museum (Museo del Oro)
--   Afternoon: Explore La Candelaria's colorful streets and colonial architecture
--   Evening: Dinner at Andrés DC for a taste of Colombian cuisine and culture
+-   Morning:Flight to Medellín (DCA to MIA, MIA to MDE)
+-   Afternoon: Arrival and hotel check-in
+-   Evening: Dinner and cultural exchange
 
-### Day 3
+### Day 2 (Mon March 3)
 
--   Morning: Take the cable car to Monserrate for panoramic city views
--   Afternoon: Visit the Botero Museum
--   Evening: Street food tour in the Chapinero district
+-   Morning: Class time
+-   Afternoon: Visit to Comuna 13
 
-## Day 4-6: Coffee Triangle
+### Day 3 (Tue March 4)
 
-The Coffee Triangle (Eje Cafetero) is a region known for its coffee plantations, lush landscapes, and traditional culture.
+-   Morning: Class time
+-   Afternoon: Medellin Afro City Tour
 
-### Day 4
+### Day 4 (Wed March 5)
 
--   Fly to Armenia
--   Transfer to Salento
--   Afternoon: Walking tour of Salento's colorful streets
+-   Morning: Checkout of hotel; transfer to Cartegena
+-   Afternoon: School/excursion and hotel check-in
 
-### Day 5
+## Days 5-7: Cartagena and Palenque
 
--   Full-day tour of Cocora Valley, home to the world's tallest palm trees
--   Hike through cloud forests and enjoy a traditional almuerzo (lunch)
+Cartagena, a UNESCO World Heritage site, offers a perfect blend of Caribbean atmosphere and colonial charm. Palenque is an historic African village in Colombia.
 
-### Day 6
+### Day 5 (Thu March 6)
 
--   Morning: Coffee farm tour and tasting
--   Afternoon: Visit to Filandia, a picturesque coffee town
--   Evening: Return to Salento for dinner at Camino Real
+-   Morning: Day trip to San Basilio de Palenque
+-   Afternoon: Return to Cartagena
 
-## Day 7-9: Medellín
+### Day 6 (Fri March 7)
 
-Medellín, once notorious for its violence, has transformed into a city of innovation and culture.
+-   Morning: Travel to Rosario Island Beach
+-   Afternoon: Beach Day
 
-### Day 7
+### Day 7 (Sat March 8)
 
--   Morning flight to Medellín
--   Afternoon: City tour including Plaza Botero and Parque Arví cable car ride
--   Evening: Dinner in El Poblado neighborhood
-
-### Day 8
-
--   Day trip to Guatapé
-    -   Climb El Peñol for stunning views
-    -   Boat tour on the reservoir
-    -   Explore the colorful town of Guatapé
-
-### Day 9
-
--   Morning: Visit to Comuna 13 for graffiti tour
--   Afternoon: Explore Botanical Garden and Parque Explora
--   Evening: Farewell dinner at Carmen restaurant
-
-## Day 10-13: Cartagena
-
-Cartagena, a UNESCO World Heritage site, offers a perfect blend of Caribbean atmosphere and colonial charm.
-
-### Day 10
-
--   Morning flight to Cartagena
--   Afternoon: Walking tour of the walled city
--   Evening: Sunset drinks at Café del Mar
-
-### Day 11
-
--   Morning: Visit to Castillo San Felipe de Barajas
--   Afternoon: Free time for shopping or beach
--   Evening: Salsa class followed by dinner at La Cevicheria
-
-### Day 12
-
--   Day trip to Rosario Islands
-    -   Snorkeling in crystal-clear waters
-    -   Beach relaxation
-    -   Fresh seafood lunch
-
-### Day 13
-
--   Morning: Last-minute shopping in the old town
--   Afternoon: Depart for Rafael Núñez International Airport
+-   Morning: Checkout and departure (CTG to MIA, MIA to DCA)
+-   Afternoon: Return to DCA
 
 # Packing List
 
@@ -134,8 +88,8 @@ Cartagena, a UNESCO World Heritage site, offers a perfect blend of Caribbean atm
 -   Lightweight, breathable clothing for hot weather
 -   Long-sleeved shirts and pants for mosquito protection
 -   Rain jacket or poncho
--   Swimwear
--   Light sweater or jacket for cooler evenings (especially in Bogotá)
+-   Swimwear for beach day
+-   Light sweater or jacket for cooler evenings
 -   Comfortable walking shoes
 -   Sandals or flip-flops
 
@@ -143,18 +97,15 @@ Cartagena, a UNESCO World Heritage site, offers a perfect blend of Caribbean atm
 
 -   Sun hat
 -   Sunglasses
--   Daypack for excursions
+-   Daybag for excursions
 -   Reusable water bottle
 -   Travel locks
--   Money belt
 
 ## Electronics
 
 -   Smartphone and charger
 -   Camera
--   Power bank
 -   Universal travel adapter
--   Kindle or e-reader (optional)
 
 ## Toiletries
 
@@ -162,59 +113,24 @@ Cartagena, a UNESCO World Heritage site, offers a perfect blend of Caribbean atm
 -   Insect repellent
 -   Hand sanitizer
 -   Personal medications
--   Basic first-aid kit
 
 ## Documents
 
--   Passport (valid for at least 6 months beyond your return date)
--   Travel insurance documents
--   Credit cards and some cash (Colombian Pesos)
+-   Passport (valid for at least 6 months beyond March 1, 2025)
+-   Credit cards and some cash
 -   Copies of important documents
 
 # Travel Information
 
-## Best Time to Visit
-
-Colombia's climate varies by region, but generally, the best times to visit are:
-
--   December to March
--   July to August
-
-These periods correspond to the dry seasons in most of the country. However, Colombia can be visited year-round, with each season offering unique experiences.
-
 ## Visa and Entry Requirements
 
--   Most visitors can enter Colombia without a visa for stays up to 90 days.
+-   Currently, U.S. visitors can enter Colombia without a visa for stays up to 90 days.
 -   You'll need a passport valid for at least 6 months beyond your planned return date.
--   Proof of onward travel (return ticket) may be required.
 -   Check the [Colombian Ministry of Foreign Affairs website](https://www.cancilleria.gov.co/en) for the most up-to-date information.
-
-## Health and Vaccinations
-
--   Consult your doctor or a travel clinic at least 4-6 weeks before your trip.
--   Routine vaccinations should be up to date.
--   Yellow fever vaccination is recommended for some regions.
--   Consider malaria prophylaxis if visiting rural or jungle areas.
-
-## Safety
-
-Colombia has made significant strides in safety, but it's important to stay vigilant:
-
--   Stick to tourist areas and avoid walking alone at night.
--   Use official taxis or ride-sharing apps.
--   Keep valuables secure and be aware of your surroundings.
--   Register with your country's embassy or consulate before travel.
-
-## Transportation
-
--   Domestic flights are an efficient way to travel between major cities.
--   Buses are a comfortable and affordable option for shorter distances.
--   In cities, use official taxis, Uber, or local ride-sharing apps.
--   The Transmilenio bus system in Bogotá is an efficient way to get around the capital.
 
 ## Language
 
-Spanish is the official language. While English is spoken in some tourist areas, learning basic Spanish phrases will greatly enhance your experience and interactions with locals.
+Spanish is the official language. While English is spoken in some tourist areas, learning basic Spanish phrases will greatly enhance your experience and interactions with locals. We will practice some of these typical phrases in class.
 
 ## Money
 
@@ -223,4 +139,4 @@ Spanish is the official language. While English is spoken in some tourist areas,
 -   ATMs are readily available in urban areas.
 -   Inform your bank of your travel plans to avoid card blocks.
 
-Remember to check the latest travel advisories and health requirements before your trip. ¡Buen viaje!
+We will be checking the latest travel advisories and health requirements before our trip. ¡Buen viaje!
