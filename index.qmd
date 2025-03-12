@@ -17,9 +17,9 @@ subtitle: "International Internship and Special Topics Seminar"
 | 8 | Mar 11 | No Class | [Lightfoot (2003)](https://www.dropbox.com/scl/fi/e8f1jkgmxh0u4qjw64exp/Lightfoot_Essential-Conversation-1.pdf?rlkey=mwziunhijn2h7txrq0f32lbj9&dl=0){target="_blank"} & [Moll et al. (1992)](https://www.dropbox.com/scl/fi/rnn9cuzslreopsccjs6l8/Moll-et-al-1992-_Funds-of-Knowledge.pdf?rlkey=imxbr80men0uhw1uu5e9c0g42&dl=0){target="_blank"} |
 | 9 | Mar 18 | [Europe and the West]() | [Wing (2007)](https://www.dropbox.com/scl/fi/nzv5ttd3h0rn6h3pjzqck/Wing-2007-Beyond-Black-and-White.pdf?rlkey=n5fuxl9cblu3t0xif1uu9m363&dl=0){target="_blank"} |
 | 10 | Mar 25 | [Asia and Southeast Asia]() | [Paris (2012)](https://www.dropbox.com/scl/fi/zm63mtgo9vqdqi8ifw6cn/Paris-D.-2012-_Culturally-Sustaining-Pedagogy-A-Needed-Change-in-Stance-Terminology-and-Practice.pdf?rlkey=dwn4aftp7yyvle33ie5s8llj5&dl=0){target="_blank"} |
-| 11 | Apr 1 | [Native and Indigenous Systems]() | [ross (2021)](https://www.jstor.org/stable/45454125?seq=2){target="_blank"} |
+| 11 | Apr 1 | [Native and Indigenous Systems]() | [ross (2021)](https://www.jstor.org/stable/45454125?seq=2){target="_blank"} & [Freire (1970)](https://www.dropbox.com/scl/fi/tykioobiatscp9ob0emzc/Freire-P.-1970-2005-.-Pedagogy-of-the-Oppressed.pdf?rlkey=il3iojix4l2xwnlsabnl3weor&dl=0){target="_blank"} |
 | 12 | Apr 8 | [Presentations to SOE Faculty]() | [](){target="_blank"} |
-| 12 | Apr 11 | [International Children's Reading Symposium]() | [Freire (1970)](https://www.dropbox.com/scl/fi/tykioobiatscp9ob0emzc/Freire-P.-1970-2005-.-Pedagogy-of-the-Oppressed.pdf?rlkey=il3iojix4l2xwnlsabnl3weor&dl=0){target="_blank"} |
+| 12 | Apr 11 | [International Children's Reading Symposium]() | |
 | 13 | Apr 15 | [Global Activity Rotations]() | [Carr (2024)](https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/history-and-government/research/freedom%20-journal-of-research-in-aficana-studies-volume1.pdf#page=64){target="_blank"} |
 | 14 | Apr 22 | [SOE Career Expo]() | [ ](){target="_blank"} |
 | 15 | Apr 29 | [Reflections]() | [ ](){target="_blank"} |
